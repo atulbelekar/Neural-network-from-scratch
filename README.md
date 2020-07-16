@@ -20,3 +20,4 @@ Following is outline of the Implementation of Neural Network :
 7. Input can be fed in batches for using stochastic gradient descent.
 
 This Neural Network is tested on MNIST Data set. It gives test accuracy of around 92-94 %.
+I have also attached two sample datasets to play around with. 
