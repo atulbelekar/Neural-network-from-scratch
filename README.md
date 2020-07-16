@@ -19,5 +19,4 @@ Following is outline of the Implementation of Neural Network :
 6. Gradient Discent is used for optimization.
 7. Input can be fed in batches for using stochastic gradient descent.
 
-
-
+This Neural Network is tested on MNIST Data set. It gives test accuracy of around 92-94 %.
