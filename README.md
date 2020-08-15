@@ -17,7 +17,8 @@ Following is outline of the Implementation of Neural Network :
 5. Each neuron uses only a sigmoid activation function. 
 6. Cross entropy loss function has been used for loss finding.
 6. Gradient Discent is used for optimization.
-7. Input can be fed in batches for using stochastic gradient descent.
+7. Input has to be the whole training data set.
+8. Some modifications are to be done to use mini batch gradient descent.
 
 This Neural Network is tested on MNIST Data set. It gives test accuracy of around 92-94 %.
 I have also attached two sample datasets to play around with. 
